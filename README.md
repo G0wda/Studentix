@@ -24,7 +24,7 @@ cd Studentix
 npm install
 ```
 
-## Run tests
+## Run Server
 
 ```sh
 node server.js
