@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to js 👋</h1>
+<h1 align="center">Welcome to Studentix</h1>
 <p>
   <a href="https://www.npmjs.com/package/js" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/js.svg">
@@ -7,6 +7,16 @@
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
 </p>
+
+
+## Clone the repo
+
+```sh
+git clone https://github.com/G0wda/Studentix
+```
+```sh
+cd Studentix
+```
 
 ## Install
 
@@ -17,7 +27,7 @@ npm install
 ## Run tests
 
 ```sh
-npm run test
+node server.js
 ```
 
 ## Show your support
@@ -25,4 +35,3 @@ npm run test
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
